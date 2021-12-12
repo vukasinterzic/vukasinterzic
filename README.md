@@ -17,6 +17,13 @@ I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz) and Microsoft 
 ![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
 
 
+
+### 📝 Latest from the blog:
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+
+
 <!--
 **vukasinterzic/vukasinterzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
