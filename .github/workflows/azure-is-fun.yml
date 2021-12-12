@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "AzureIs.Fun"
-          commit_message: "Updated readme with the latest blog post data"
+          commit_message: "Workflow updated readme with the latest blog post data"
           feed_list: "https://azureis.fun/feed.xml"
