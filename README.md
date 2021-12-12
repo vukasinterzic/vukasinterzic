@@ -10,12 +10,11 @@ I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz) and Microsoft 
 [![Twitter](https://img.shields.io/badge/MrTerzic-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrTerzic)
 [![AzureIs.Fun](https://img.shields.io/badge/AzureIs.Fun-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azureis.fun)
 [![IE](https://img.shields.io/badge/VukasinTerzic.com-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](http://vukasinterzic.com)
-[![Microsoft](https://img.shields.io/badge/Microsoft_MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
+[![Microsoft](https://img.shields.io/badge/Microsoft_MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5003864?fullName=Vukasin%20Terzic)
+
 
 
 ![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
-
-
 
 
 <!--
@@ -32,6 +31,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+ADD RSS feed to the list
 
 
 Structure:
