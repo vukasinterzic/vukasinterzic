@@ -20,7 +20,8 @@ I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz) and Microsoft 
 
 ### 📝 Latest from the blog:
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- AzureIs.Fun:START -->
+<!-- AzureIs.Fun:END -->
 
 
 
