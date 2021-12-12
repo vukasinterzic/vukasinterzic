@@ -13,7 +13,7 @@ I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz) and Microsoft 
 [![Microsoft](https://img.shields.io/badge/Microsoft_MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
 
 
-![Azure Is Fun](/assets/img/Azure-is-fun-wordcloud-azure-hearth.png)
+![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
 
 
 
