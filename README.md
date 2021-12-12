@@ -51,24 +51,6 @@ ADD RSS feed to the list
 
 Structure:
 
-
-Logo/video/gif, maybe from my website.
-![Azure Is Fun](/assets/img/Azure-is-fun-wordcloud-azure-hearth.png)
-
-Description
-
-Contacts:
-
-Twitter
-Linkedin
-Website
-Blog
-info link
-mvp profile
-
 Azure CLI/PowerShell commandlet of the day (from the twitter bot):
-
-Latest on my blog:
-
 
 -->
