@@ -2,15 +2,19 @@
 
 My name is Vukasin. I am a digital nomad traveling around the world, while working as a Cloud Solution Architect. I am not a developer, but I do like to write code and automate everything I can.
 
-I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz) and Microsoft Certified Trainer. I like creating Infrastructure as a Code, working with Windows server, hyperconverged infrastructures, and Azure :)
+I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz) and Microsoft Certified Trainer. I like creating Infrastructure as a Code, working with Windows server, hyperconverged infrastructures, and Azure ☁️
+
+Away from keyboard, I enjoy activities like scuba diving and free diving, kite surfing and wind surfing, paddle boarding, beach cleaning, volunteering to help animals. I'm a father of a beautiful girl. I enjoy coffee ☕️ I love ocean and where ever I go I always come back to it.
 
 ### 📫  Let's get in touch:
 
-[![terzic](https://img.shields.io/badge/terzic-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terzic/)
-[![Twitter](https://img.shields.io/badge/MrTerzic-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrTerzic)
-[![AzureIs.Fun](https://img.shields.io/badge/AzureIs.Fun-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azureis.fun)
-[![IE](https://img.shields.io/badge/VukasinTerzic.com-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](http://vukasinterzic.com)
-[![Microsoft](https://img.shields.io/badge/Microsoft_MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5003864?fullName=Vukasin%20Terzic)
+[![terzic](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terzic/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrTerzic)
+[![AzureIs.Fun](https://img.shields.io/badge/blog-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azureis.fun)
+[![IE](https://img.shields.io/badge/website-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](http://vukasinterzic.com)
+[![Microsoft](https://img.shields.io/badge/MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5003864?fullName=Vukasin%20Terzic)
+
+### 🤙 You can also schedule 1:1 with me to discuss Azure (free 30min consultation)
 
 ### 📝 Latest from the blog:
 
