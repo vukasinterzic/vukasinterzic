@@ -12,12 +12,6 @@ I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz) and Microsoft 
 [![IE](https://img.shields.io/badge/VukasinTerzic.com-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](http://vukasinterzic.com)
 [![Microsoft](https://img.shields.io/badge/Microsoft_MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5003864?fullName=Vukasin%20Terzic)
 
-
-
-![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
-
-
-
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
@@ -28,6 +22,8 @@ I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz) and Microsoft 
 - [How to perform tasks in Microsoft Azure with Voice Assistants &lpar;Cortana, Alexa, Google, Siri&rpar;](https://azureis.fun/posts/How-To-Perform-Tasks-In-Azure-With-Voice-Assistant-Cortana-Alexa-Google-Siri/)
 <!-- AzureIs.Fun:END -->
 
+
+![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
 
 
 <!--
