@@ -1,5 +1,4 @@
-
-![Microsoft MVP](/assets/img/MVP_SocialGraphics_LinkedIn_1584x396px_Opt-2.jpg)
+![Microsoft MVP](/assets/img/MVP_SocialGraphics_LinkedIn_1584x396px_Opt-4.jpg)
 
 ### Hi there 👋
 
