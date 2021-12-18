@@ -1,3 +1,6 @@
+
+![Microsoft MVP](/assets/img/MVP_SocialGraphics_LinkedIn_1584x396px_Opt-2.jpg)
+
 ### Hi there 👋
 
 My name is Vukasin. I am a digital nomad traveling around the world, while working as a Cloud Solution Architect. I am not a developer, but I do like to write code and automate everything I can.
