@@ -21,11 +21,11 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Azure Naming Policy](https://azureis.fun/posts/Azure-Naming-Policy/)
 - [Registering Hyper-V Servers with a different Azure Migrate project](https://azureis.fun/posts/Registering-HyperV-Servers-With-A-Different-Azure-Migration-Project/)
 - [Simplify Your Resource Deployments With Azure Bicep](https://azureis.fun/posts/Simplify-Your-Resource-Deployments-With-Azure-Bicep/)
 - [Moving Managed Disks to different Azure Region](https://azureis.fun/posts/Moving-Managed-Disks-To-Different-Azure-Region/)
 - [Azure Dashboards for Azure Governance](https://azureis.fun/posts/Azure-Dashboards-for-Azure-Governance/)
-- [How to perform tasks in Microsoft Azure with Voice Assistants &lpar;Cortana, Alexa, Google, Siri&rpar;](https://azureis.fun/posts/How-To-Perform-Tasks-In-Azure-With-Voice-Assistant-Cortana-Alexa-Google-Siri/)
 <!-- AzureIs.Fun:END -->
 
 
