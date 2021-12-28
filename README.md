@@ -26,6 +26,11 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Simplify Your Resource Deployments With Azure Bicep](https://azureis.fun/posts/Simplify-Your-Resource-Deployments-With-Azure-Bicep/)
 - [Moving Managed Disks to different Azure Region](https://azureis.fun/posts/Moving-Managed-Disks-To-Different-Azure-Region/)
 - [Azure Dashboards for Azure Governance](https://azureis.fun/posts/Azure-Dashboards-for-Azure-Governance/)
+- [How to perform tasks in Microsoft Azure with Voice Assistants &lpar;Cortana, Alexa, Google, Siri&rpar;](https://azureis.fun/posts/How-To-Perform-Tasks-In-Azure-With-Voice-Assistant-Cortana-Alexa-Google-Siri/)
+- [Automate Azure VM Start-Stop with Azure Automation and Tags](https://azureis.fun/posts/Start-Stop-Azure-VM-with-Azure-Automation-and-Tags/)
+- [Ask Me Anything: Azure Server Migrations](https://azureis.fun/posts/Ask-Me-Anything-Azure-Server-Migrations-FestiveTechCalendar/)
+- [Exploring Azure Resources with Azure Graph Explorer](https://azureis.fun/posts/Exploring-Azure-Resources-with-Azure-Graph-Explorer/)
+- [Cloud Migration Free E-Books](https://azureis.fun/posts/Cloud-Migration-Free-ebooks-and-learning-path/)
 <!-- AzureIs.Fun:END -->
 
 
