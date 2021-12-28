@@ -17,3 +17,4 @@ jobs:
           comment_tag_name: "AzureIs.Fun"
           commit_message: "Workflow updated readme with the latest blog post data"
           feed_list: "https://azureis.fun/feed.xml"
+          max_post_count: 10
