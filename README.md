@@ -18,6 +18,32 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 ### 🤙 You can also schedule 1:1 with me to discuss Azure (free 30min consultation)
 
+<br><br>
+
+<details>
+  <summary><b>📚 Certification Goals for 2021/2022:</b></summary>
+  <ul>
+    <li>⬜️ AZ-700 - Azure Network Engineer Associate</li>
+    <li>⬜️ AZ-800 - Administering Windows Server Hybrid Core Infrastructure</li>
+    <li>⬜️ AZ-801 - Configuring Windows Server Hybrid Advanced Services</li>
+    <li>⬜️ I-900 - Azure AI Fundamentals</li>
+    <li>⬜️ DP-900 - Azure Data Fundamentals</li>
+    <li>⬜️ 62-193 - Technology Literacy for Educators</li>
+    <li>⬜️ AZ-600 - Azure Stack Hub Operator Associate</li>
+    <li>⬜️ AI-102 - Azure AI Engineer Associate</li>
+    <li>⬜️ DP-300 - Azure Database Administrator Associate</li>
+    <li>✅ SC-400 - Information Protection Administrator Associate</li>
+    <li>✅ SC-200 - Security Operations Analyst Associate</li>
+    <li>✅ SC-900 - Security, Compliance, and Identity Fundamentals</li>
+    <li>✅ SC-300 - Identity and Access Administrator Associate</li>
+    <li>✅ AZ-140 - Azure Virtual Desktop Specialty</li>
+  </ul>
+</details>
+
+
+<br><br>
+
+
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
