@@ -62,6 +62,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Cleaning up Azure Resource Tags](https://azureis.fun/posts/Cleaning-Up-Azure-Resource-Tags/)
 - [Azure Naming Policy](https://azureis.fun/posts/Azure-Naming-Policy/)
 - [Registering Hyper-V Servers with a different Azure Migrate project](https://azureis.fun/posts/Registering-HyperV-Servers-With-A-Different-Azure-Migration-Project/)
 - [Simplify Your Resource Deployments With Azure Bicep](https://azureis.fun/posts/Simplify-Your-Resource-Deployments-With-Azure-Bicep/)
@@ -71,7 +72,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Automate Azure VM Start-Stop with Azure Automation and Tags](https://azureis.fun/posts/Start-Stop-Azure-VM-with-Azure-Automation-and-Tags/)
 - [Ask Me Anything: Azure Server Migrations](https://azureis.fun/posts/Ask-Me-Anything-Azure-Server-Migrations-FestiveTechCalendar/)
 - [Exploring Azure Resources with Azure Graph Explorer](https://azureis.fun/posts/Exploring-Azure-Resources-with-Azure-Graph-Explorer/)
-- [Cloud Migration Free E-Books](https://azureis.fun/posts/Cloud-Migration-Free-ebooks-and-learning-path/)
 <!-- AzureIs.Fun:END -->
 
 
