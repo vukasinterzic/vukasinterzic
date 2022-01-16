@@ -20,7 +20,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 <br>
 
-<details>
   <summary><b>📚 Certification Goals for 2021/2022:</b></summary>
   <summary><b>New Certificates:</b></summary>
   <ul>
@@ -50,12 +49,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     <li>✅ Microsoft 365 Security Administrator Associate</li>
     <li>✅ Azure Security Engineer Associate</li>
   </ul>
-
-
-
-</details>
-
-
 
 <br>
 
