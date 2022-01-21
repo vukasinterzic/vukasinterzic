@@ -41,8 +41,8 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
   <summary><b>Renew expiring:</b></summary>
   <ul>
-    <li>⬜️ DevOps Engineer Expert</li>
     <li>⬜️ Microsoft Certified Trainer</li>
+    <li>✅ DevOps Engineer Expert</li>
     <li>✅ Microsoft 365 Enterprise Administrator Expert</li>
     <li>✅ Azure Solutions Architect Expert</li>
     <li>✅ Azure Administrator Associate</li>
