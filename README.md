@@ -12,7 +12,8 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 [![terzic](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terzic/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrTerzic)
-[![AzureIs.Fun](https://img.shields.io/badge/blog-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azureis.fun)
+[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/terzic)
+[![AzureIs.Fun](https://img.shields.io/badge/blog-0078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azureis.fun)
 [![IE](https://img.shields.io/badge/website-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](http://vukasinterzic.com)
 [![Microsoft](https://img.shields.io/badge/MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5003864?fullName=Vukasin%20Terzic)
 
