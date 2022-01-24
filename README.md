@@ -56,6 +56,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Update your Azure Automation Accounts to use Managed Identity instead of RunAs Account](https://azureis.fun/posts/Update-Azure-Automation-Account-To-Use-Managed-Identity/)
 - [Cleaning up Azure Resource Tags](https://azureis.fun/posts/Cleaning-Up-Azure-Resource-Tags/)
 - [Azure Naming Policy](https://azureis.fun/posts/Azure-Naming-Policy/)
 - [Registering Hyper-V Servers with a different Azure Migrate project](https://azureis.fun/posts/Registering-HyperV-Servers-With-A-Different-Azure-Migration-Project/)
@@ -65,7 +66,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [How to perform tasks in Microsoft Azure with Voice Assistants &lpar;Cortana, Alexa, Google, Siri&rpar;](https://azureis.fun/posts/How-To-Perform-Tasks-In-Azure-With-Voice-Assistant-Cortana-Alexa-Google-Siri/)
 - [Automate Azure VM Start-Stop with Azure Automation and Tags](https://azureis.fun/posts/Start-Stop-Azure-VM-with-Azure-Automation-and-Tags/)
 - [Ask Me Anything: Azure Server Migrations](https://azureis.fun/posts/Ask-Me-Anything-Azure-Server-Migrations-FestiveTechCalendar/)
-- [Exploring Azure Resources with Azure Graph Explorer](https://azureis.fun/posts/Exploring-Azure-Resources-with-Azure-Graph-Explorer/)
 <!-- AzureIs.Fun:END -->
 
 
