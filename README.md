@@ -21,7 +21,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 <br>
 
-  <summary><b>📚 Certification Goals for 2021/2022:</b></summary>
+  <summary><b>📚 Certification Goals for 2022:</b></summary>
   <summary><b>New Certificates:</b></summary>
   <ul>
     <li>⬜️ AZ-700 - Azure Network Engineer Associate</li>
