@@ -33,16 +33,17 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     <li>⬜️ AZ-600 - Azure Stack Hub Operator Associate</li>
     <li>⬜️ AI-102 - Azure AI Engineer Associate</li>
     <li>⬜️ DP-300 - Azure Database Administrator Associate</li>
-    <li>✅ SC-400 - Information Protection Administrator Associate</li>
-    <li>✅ SC-200 - Security Operations Analyst Associate</li>
-    <li>✅ SC-900 - Security, Compliance, and Identity Fundamentals</li>
-    <li>✅ SC-300 - Identity and Access Administrator Associate</li>
-    <li>✅ AZ-140 - Azure Virtual Desktop Specialty</li>
+
   </ul>
 
   <summary><b>Renew expiring:</b></summary>
   <ul>
     <li>⬜️ Microsoft Certified Trainer</li>
+    <li>⬜️ SC-400 - Information Protection Administrator Associate</li>
+    <li>⬜️ SC-200 - Security Operations Analyst Associate</li>
+    <li>⬜️ SC-900 - Security, Compliance, and Identity Fundamentals</li>
+    <li>⬜️ SC-300 - Identity and Access Administrator Associate</li>
+    <li>⬜️ AZ-140 - Azure Virtual Desktop Specialty</li>
     <li>✅ DevOps Engineer Expert</li>
     <li>✅ Microsoft 365 Enterprise Administrator Expert</li>
     <li>✅ Azure Solutions Architect Expert</li>
