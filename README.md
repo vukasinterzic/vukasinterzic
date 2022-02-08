@@ -57,6 +57,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Azure CLI Tip Of The Day - January 2022](https://azureis.fun/posts/Azure-CLI-Tip-Of-The-Day-1-31/)
 - [Rotate Azure VM Passwords with PowerShell and Key Vault](https://azureis.fun/posts/Rotate-Azure-VM-admin-password-with-PowerShell-and-KeyVault/)
 - [Update your Azure Automation Accounts to use Managed Identity instead of RunAs Account](https://azureis.fun/posts/Update-Azure-Automation-Account-To-Use-Managed-Identity/)
 - [Cleaning up Azure Resource Tags](https://azureis.fun/posts/Cleaning-Up-Azure-Resource-Tags/)
@@ -66,7 +67,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Moving Managed Disks to different Azure Region](https://azureis.fun/posts/Moving-Managed-Disks-To-Different-Azure-Region/)
 - [Azure Dashboards for Azure Governance](https://azureis.fun/posts/Azure-Dashboards-for-Azure-Governance/)
 - [How to perform tasks in Microsoft Azure with Voice Assistants &lpar;Cortana, Alexa, Google, Siri&rpar;](https://azureis.fun/posts/How-To-Perform-Tasks-In-Azure-With-Voice-Assistant-Cortana-Alexa-Google-Siri/)
-- [Automate Azure VM Start-Stop with Azure Automation and Tags](https://azureis.fun/posts/Start-Stop-Azure-VM-with-Azure-Automation-and-Tags/)
 <!-- AzureIs.Fun:END -->
 
 
