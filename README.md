@@ -58,13 +58,13 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     section New Certifications
     AZ-700 - Azure Network Engineer Associate       :active, 2022-03-01, 30d
     AZ-800 - Administering Windows Server Hybrid Core Infrastructure    :a12, 2022-06-01, 30d
-    AZ-801 - Configuring Windows Server Hybrid Advanced Services        :a13, 2022-07-01, 30d
-    AI-900 - Azure AI Fundamentals                                      :a14, 2022-08-01, 15d
-    DP-900 - Azure Data Fundamentals                                    :a15, 2022-08-16, 15d
-    Optional 62-193 - Technology Literacy for Educators                 :a16, 2022-09-01, 30d
-    Optional AZ-600 - Azure Stack Hub Operator Associate                :a17, 2022-10-01, 30d
-    Optional AI-102 - Azure AI Engineer Associate                       :a18, 2022-11-01, 30d
-    Optional DP-300 - Azure Database Administrator Associate            :a19, 2022-12-01, 30d
+    AZ-801 - Configuring Windows Server Hybrid Advanced Services        :a13, after a12, 30d
+    AI-900 - Azure AI Fundamentals                                      :a14, after a13, 15d
+    DP-900 - Azure Data Fundamentals                                    :a15, after a14, 15d
+    Optional 62-193 - Technology Literacy for Educators                 :a16, after a15, 30d
+    Optional AZ-600 - Azure Stack Hub Operator Associate                :a17, after a16, 30d
+    Optional AI-102 - Azure AI Engineer Associate                       :a18, after a17, 30d
+    Optional DP-300 - Azure Database Administrator Associate            :a19, after a18, 30d
 ```
 
 ![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
