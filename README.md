@@ -19,6 +19,21 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 ### 🤙 You can also schedule 1:1 with me to discuss Azure (free 30min consultation)
 
+### 📝 Latest from the blog:
+
+<!-- AzureIs.Fun:START -->
+- [Azure Policy ideas for Azure Governance](https://azureis.fun/posts/Azure-Policy-ideas-for-Azure-Governance/)
+- [Azure CLI Tip Of The Day - January 2022](https://azureis.fun/posts/Azure-CLI-Tip-Of-The-Day-1-31/)
+- [Rotate Azure VM Passwords with PowerShell and Key Vault](https://azureis.fun/posts/Rotate-Azure-VM-admin-password-with-PowerShell-and-KeyVault/)
+- [Update your Azure Automation Accounts to use Managed Identity instead of RunAs Account](https://azureis.fun/posts/Update-Azure-Automation-Account-To-Use-Managed-Identity/)
+- [Cleaning up Azure Resource Tags](https://azureis.fun/posts/Cleaning-Up-Azure-Resource-Tags/)
+- [Azure Naming Policy](https://azureis.fun/posts/Azure-Naming-Policy/)
+- [Registering Hyper-V Servers with a different Azure Migrate project](https://azureis.fun/posts/Registering-HyperV-Servers-With-A-Different-Azure-Migration-Project/)
+- [Simplify Your Resource Deployments With Azure Bicep](https://azureis.fun/posts/Simplify-Your-Resource-Deployments-With-Azure-Bicep/)
+- [Moving Managed Disks to different Azure Region](https://azureis.fun/posts/Moving-Managed-Disks-To-Different-Azure-Region/)
+- [Azure Dashboards for Azure Governance](https://azureis.fun/posts/Azure-Dashboards-for-Azure-Governance/)
+<!-- AzureIs.Fun:END -->
+
 
 ```mermaid
     gantt
@@ -51,21 +66,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     Optional AI-102 - Azure AI Engineer Associate                       :a18, 2022-11-01, 30d
     Optional DP-300 - Azure Database Administrator Associate            :a19, 2022-12-01, 30d
 ```
-### 📝 Latest from the blog:
-
-<!-- AzureIs.Fun:START -->
-- [Azure Policy ideas for Azure Governance](https://azureis.fun/posts/Azure-Policy-ideas-for-Azure-Governance/)
-- [Azure CLI Tip Of The Day - January 2022](https://azureis.fun/posts/Azure-CLI-Tip-Of-The-Day-1-31/)
-- [Rotate Azure VM Passwords with PowerShell and Key Vault](https://azureis.fun/posts/Rotate-Azure-VM-admin-password-with-PowerShell-and-KeyVault/)
-- [Update your Azure Automation Accounts to use Managed Identity instead of RunAs Account](https://azureis.fun/posts/Update-Azure-Automation-Account-To-Use-Managed-Identity/)
-- [Cleaning up Azure Resource Tags](https://azureis.fun/posts/Cleaning-Up-Azure-Resource-Tags/)
-- [Azure Naming Policy](https://azureis.fun/posts/Azure-Naming-Policy/)
-- [Registering Hyper-V Servers with a different Azure Migrate project](https://azureis.fun/posts/Registering-HyperV-Servers-With-A-Different-Azure-Migration-Project/)
-- [Simplify Your Resource Deployments With Azure Bicep](https://azureis.fun/posts/Simplify-Your-Resource-Deployments-With-Azure-Bicep/)
-- [Moving Managed Disks to different Azure Region](https://azureis.fun/posts/Moving-Managed-Disks-To-Different-Azure-Region/)
-- [Azure Dashboards for Azure Governance](https://azureis.fun/posts/Azure-Dashboards-for-Azure-Governance/)
-<!-- AzureIs.Fun:END -->
-
 
 ![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
 
