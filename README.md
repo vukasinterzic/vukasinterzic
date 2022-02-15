@@ -22,68 +22,37 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 ```mermaid
 
-  gantt
-  title Microsoft Certification Plan
-  dateFormat  YYYY-MM-DD
-  section Renewal
-  Microsoft Most Valuable Professional 2022-23    :active, 2021-03-31, 365d
-  Microsoft Certified Trainer 2022-23             :active, 2021-04-07, 365d
-  Azure Virtual Desktop Specialty                 :active, 2022-01-16, 180d
-  Identity and Access Administrator Associate     :active, 2022-01-30, 180d
-  Azure Administrator Associate                   :a2, 2022-02-28, 180d
-  Azure Security Engineer Associate               :a3, 2022-03-30, 180d
-  Azure Solutions Architect Expert                :a4, 2022-04-21, 180d
-  Security Operations Analyst Associate           :a5, 2022-04-29, 180d
-  Information Protection Administrator Associate  :a6, 2022-05-13, 180d
-  Security Administrator Associate                :a7, 2022-06-02, 180d
-  Enterprise Administrator Expert                 :a8, 2022-10-06, 180d
-  DevOps Engineer Expert                          :a9, 2022-11-29, 180d
-  Microsoft Most Valuable Professional 2023-24    :a10, 2022-03-31, 365d
-  Microsoft Certified Trainer 2023-24             :a11, 2022-04-07, 365d
+    gantt
+    title Microsoft Certification Plan
+    dateFormat  YYYY-MM-DD
+    section Renewal
+    Microsoft Most Valuable Professional 2022-23    :active, 2021-03-31, 365d
+    Microsoft Certified Trainer 2022-23             :active, 2021-04-07, 365d
+    Azure Virtual Desktop Specialty                 :active, 2022-01-16, 180d
+    Identity and Access Administrator Associate     :active, 2022-01-30, 180d
+    Azure Administrator Associate                   :a2, 2022-02-28, 180d
+    Azure Security Engineer Associate               :a3, 2022-03-30, 180d
+    Azure Solutions Architect Expert                :a4, 2022-04-21, 180d
+    Security Operations Analyst Associate           :a5, 2022-04-29, 180d
+    Information Protection Administrator Associate  :a6, 2022-05-13, 180d
+    Security Administrator Associate                :a7, 2022-06-02, 180d
+    Enterprise Administrator Expert                 :a8, 2022-10-06, 180d
+    DevOps Engineer Expert                          :a9, 2022-11-29, 180d
+    Microsoft Most Valuable Professional 2023-24    :a10, 2022-03-31, 365d
+    Microsoft Certified Trainer 2023-24             :a11, 2022-04-07, 365d
 
-  section New Certifications
-  AZ-700 - Azure Network Engineer Associate       :active, 2022-03-01, 30d
-  AZ-800 - Administering Windows Server Hybrid Core Infrastructure    :a12, 2022-06-01, 30d
-  AZ-801 - Configuring Windows Server Hybrid Advanced Services        :a13, 2022-07-01, 30d
-  AI-900 - Azure AI Fundamentals                                      :a14, 2022-08-01, 15d
-  DP-900 - Azure Data Fundamentals                                    :a15, 2022-08-16, 15d
+    section New Certifications
+    AZ-700 - Azure Network Engineer Associate       :active, 2022-03-01, 30d
+    AZ-800 - Administering Windows Server Hybrid Core Infrastructure    :a12, 2022-06-01, 30d
+    AZ-801 - Configuring Windows Server Hybrid Advanced Services        :a13, 2022-07-01, 30d
+    AI-900 - Azure AI Fundamentals                                      :a14, 2022-08-01, 15d
+    DP-900 - Azure Data Fundamentals                                    :a15, 2022-08-16, 15d
+    Optional 62-193 - Technology Literacy for Educators                 :a16, 2022-09-01, 30d
+    Optional AZ-600 - Azure Stack Hub Operator Associate                :a17, 2022-10-01, 30d
+    Optional AI-102 - Azure AI Engineer Associate                       :a18, 2022-11-01, 30d
+    Optional DP-300 - Azure Database Administrator Associate            :a19, 2022-12-01, 30d
 
-```        
-    
-
-<br>
-
-  <summary><b>📚 Certification Goals for 2022:</b></summary>
-  <summary><b>New Certificates:</b></summary>
-  <ul>
-    <li>⬜️ AZ-700 - Azure Network Engineer Associate</li>
-    <li>⬜️ AZ-800 - Administering Windows Server Hybrid Core Infrastructure</li>
-    <li>⬜️ AZ-801 - Configuring Windows Server Hybrid Advanced Services</li>
-    <li>⬜️ AI-900 - Azure AI Fundamentals</li>
-    <li>⬜️ DP-900 - Azure Data Fundamentals</li>
-    <li>⬜️ 62-193 - Technology Literacy for Educators</li>
-    <li>⬜️ AZ-600 - Azure Stack Hub Operator Associate</li>
-    <li>⬜️ AI-102 - Azure AI Engineer Associate</li>
-    <li>⬜️ DP-300 - Azure Database Administrator Associate</li>
-
-  </ul>
-
-  <summary><b>Renew expiring:</b></summary>
-  <ul>
-    <li>⬜️ Microsoft Certified Trainer</li>
-    <li>⬜️ Information Protection Administrator Associate</li>
-    <li>⬜️ Security Operations Analyst Associate</li>
-    <li>⬜️ Identity and Access Administrator Associate</li>
-    <li>⬜️ Azure Virtual Desktop Specialty</li>
-    <li>✅ DevOps Engineer Expert</li>
-    <li>✅ Microsoft 365 Enterprise Administrator Expert</li>
-    <li>✅ Azure Solutions Architect Expert</li>
-    <li>✅ Azure Administrator Associate</li>
-    <li>✅ Microsoft 365 Security Administrator Associate</li>
-    <li>✅ Azure Security Engineer Associate</li>
-  </ul>
-
-<br>
+```
 
 ### 📝 Latest from the blog:
 
