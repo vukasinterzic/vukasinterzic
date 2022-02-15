@@ -19,6 +19,38 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 ### 🤙 You can also schedule 1:1 with me to discuss Azure (free 30min consultation)
 
+
+```mermaid
+
+  gantt
+  title Microsoft Certification Plan
+  dateFormat  YYYY-MM-DD
+  section Renewal
+  Microsoft Most Valuable Professional 2022-23    :active, 2021-03-31, 365d
+  Microsoft Certified Trainer 2022-23             :active, 2021-04-07, 365d
+  Azure Virtual Desktop Specialty                 :active, 2022-01-16, 180d
+  Identity and Access Administrator Associate     :active, 2022-01-30, 180d
+  Azure Administrator Associate                   :a2, 2022-02-28, 180d
+  Azure Security Engineer Associate               :a3, 2022-03-30, 180d
+  Azure Solutions Architect Expert                :a4, 2022-04-21, 180d
+  Security Operations Analyst Associate           :a5, 2022-04-29, 180d
+  Information Protection Administrator Associate  :a6, 2022-05-13, 180d
+  Security Administrator Associate                :a7, 2022-06-02, 180d
+  Enterprise Administrator Expert                 :a8, 2022-10-06, 180d
+  DevOps Engineer Expert                          :a9, 2022-11-29, 180d
+  Microsoft Most Valuable Professional 2023-24    :a10, 2022-03-31, 365d
+  Microsoft Certified Trainer 2023-24             :a11, 2022-04-07, 365d
+
+  section New Certifications
+  AZ-700 - Azure Network Engineer Associate       :active, 2022-03-01, 30d
+  AZ-800 - Administering Windows Server Hybrid Core Infrastructure    :a12, 2022-06-01, 30d
+  AZ-801 - Configuring Windows Server Hybrid Advanced Services        :a13, 2022-07-01, 30d
+  AI-900 - Azure AI Fundamentals                                      :a14, 2022-08-01, 15d
+  DP-900 - Azure Data Fundamentals                                    :a15, 2022-08-16, 15d
+
+```        
+    
+
 <br>
 
   <summary><b>📚 Certification Goals for 2022:</b></summary>
@@ -39,11 +71,10 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
   <summary><b>Renew expiring:</b></summary>
   <ul>
     <li>⬜️ Microsoft Certified Trainer</li>
-    <li>⬜️ SC-400 - Information Protection Administrator Associate</li>
-    <li>⬜️ SC-200 - Security Operations Analyst Associate</li>
-    <li>⬜️ SC-900 - Security, Compliance, and Identity Fundamentals</li>
-    <li>⬜️ SC-300 - Identity and Access Administrator Associate</li>
-    <li>⬜️ AZ-140 - Azure Virtual Desktop Specialty</li>
+    <li>⬜️ Information Protection Administrator Associate</li>
+    <li>⬜️ Security Operations Analyst Associate</li>
+    <li>⬜️ Identity and Access Administrator Associate</li>
+    <li>⬜️ Azure Virtual Desktop Specialty</li>
     <li>✅ DevOps Engineer Expert</li>
     <li>✅ Microsoft 365 Enterprise Administrator Expert</li>
     <li>✅ Azure Solutions Architect Expert</li>
