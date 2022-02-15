@@ -21,7 +21,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 
 ```mermaid
-
     gantt
     title Microsoft Certification Plan
     dateFormat  YYYY-MM-DD
@@ -51,9 +50,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     Optional AZ-600 - Azure Stack Hub Operator Associate                :a17, 2022-10-01, 30d
     Optional AI-102 - Azure AI Engineer Associate                       :a18, 2022-11-01, 30d
     Optional DP-300 - Azure Database Administrator Associate            :a19, 2022-12-01, 30d
-
 ```
-
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
