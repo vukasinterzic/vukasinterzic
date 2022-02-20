@@ -42,7 +42,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     section Renewal
     Microsoft Most Valuable Professional 2022-23    :active, 2021-03-31, 365d
     Microsoft Certified Trainer 2022-23             :active, 2021-04-07, 365d
-    Azure Virtual Desktop Specialty                 :active, 2022-01-16, 180d
+    Azure Virtual Desktop Specialty                 :done, 2022-01-16, 180d
     Identity and Access Administrator Associate     :active, 2022-01-30, 180d
     Azure Administrator Associate                   :a2, 2022-02-28, 180d
     Azure Security Engineer Associate               :a3, 2022-03-30, 180d
