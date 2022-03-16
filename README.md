@@ -22,6 +22,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Automate Azure DR with Azure Policy](https://azureis.fun/posts/Automate-Azure-DR-with-Azure-Policy/)
 - [Services that are easy to optimize during Azure Migration](https://azureis.fun/posts/Services-that-are-easy-to-optimize-during-Azure-Migration/)
 - [Azure Policy ideas for Azure Governance](https://azureis.fun/posts/Azure-Policy-ideas-for-Azure-Governance/)
 - [Azure CLI Tip Of The Day - January 2022](https://azureis.fun/posts/Azure-CLI-Tip-Of-The-Day-1-31/)
@@ -31,7 +32,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Azure Naming Policy](https://azureis.fun/posts/Azure-Naming-Policy/)
 - [Registering Hyper-V Servers with a different Azure Migrate project](https://azureis.fun/posts/Registering-HyperV-Servers-With-A-Different-Azure-Migration-Project/)
 - [Simplify Your Resource Deployments With Azure Bicep](https://azureis.fun/posts/Simplify-Your-Resource-Deployments-With-Azure-Bicep/)
-- [Moving Managed Disks to different Azure Region](https://azureis.fun/posts/Moving-Managed-Disks-To-Different-Azure-Region/)
 <!-- AzureIs.Fun:END -->
 
 
