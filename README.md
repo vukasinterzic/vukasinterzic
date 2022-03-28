@@ -57,8 +57,8 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
     section New Certifications
     AI-900 - Azure AI Fundamentals                                      :active, 2022-03-10, 30d
-    AZ-700 - Azure Network Engineer Associate                           :a12, 2022-04-01, 30d
-    AZ-800 - Administering Windows Server Hybrid Core Infrastructure    :a13, 2022-06-01, 30d
+    AZ-700 - Azure Network Engineer Associate                           :a12, 2022-05-01, 30d
+    AZ-800 - Administering Windows Server Hybrid Core Infrastructure    :a13, after a12, 30d
     AZ-801 - Configuring Windows Server Hybrid Advanced Services        :a14, after a13, 30d
     DP-900 - Azure Data Fundamentals                                    :a15, after a14, 15d
     Optional 62-193 - Technology Literacy for Educators                 :a16, after a15, 30d
