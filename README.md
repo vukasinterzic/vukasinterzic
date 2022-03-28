@@ -56,8 +56,8 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     Microsoft Certified Trainer 2023-24             :a11, 2022-04-07, 365d
 
     section New Certifications
-    AZ-700 - Azure Network Engineer Associate       :active, 2022-04-01, 40d
-    AI-900 - Azure AI Fundamentals                                      :a12, 2022-03-28, 12d
+    AI-900 - Azure AI Fundamentals                                      :active, 2022-03-10, 30d
+    AZ-700 - Azure Network Engineer Associate                           :a12, 2022-04-01, 30d
     AZ-800 - Administering Windows Server Hybrid Core Infrastructure    :a13, 2022-06-01, 30d
     AZ-801 - Configuring Windows Server Hybrid Advanced Services        :a14, after a13, 30d
     DP-900 - Azure Data Fundamentals                                    :a15, after a14, 15d
