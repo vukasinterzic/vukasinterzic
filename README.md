@@ -46,17 +46,17 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     Identity and Access Administrator Associate     :done, 2022-01-30, 180d
     Azure Administrator Associate                   :crit, active, a2, 2022-02-28, 180d
     Azure Security Engineer Associate               :a3, 2022-03-30, 180d
-    Azure Solutions Architect Expert                :a4, 2022-04-21, 180d
+    Azure Solutions Architect Expert                :crit, a4, 2022-04-21, 180d
     Security Operations Analyst Associate           :a5, 2022-04-29, 180d
     Information Protection Administrator Associate  :a6, 2022-05-13, 180d
     Security Administrator Associate                :a7, 2022-06-02, 180d
-    Enterprise Administrator Expert                 :a8, 2022-10-06, 180d
-    DevOps Engineer Expert                          :a9, 2022-11-29, 180d
+    Enterprise Administrator Expert                 :crit, a8, 2022-10-06, 180d
+    DevOps Engineer Expert                          :crit, a9, 2022-11-29, 180d
     Microsoft Most Valuable Professional 2023-24    :a10, 2022-03-31, 365d
     Microsoft Certified Trainer 2023-24             :a11, 2022-04-07, 365d
 
     section New Certifications
-    AI-900 - Azure AI Fundamentals                                      :crit, active, 2022-03-10, 30d
+    AI-900 - Azure AI Fundamentals                                      :active, 2022-03-10, 30d
     AZ-700 - Azure Network Engineer Associate                           :a12, 2022-05-01, 30d
     AZ-800 - Administering Windows Server Hybrid Core Infrastructure    :a13, after a12, 30d
     AZ-801 - Configuring Windows Server Hybrid Advanced Services        :a14, after a13, 30d
