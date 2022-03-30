@@ -22,6 +22,9 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Adding a friendly name to existing Azure Resources](https://azureis.fun/posts/Adding-a-friendly-name-to-Azure-Resources/)
+- [Hidden Azure Tags](https://azureis.fun/posts/Hidden-Azure-Tags/)
+- [Windows Admin Center in Azure](https://azureis.fun/posts/Windows-Admin-Center-in-Azure/)
 - [Automate Azure DR with Azure Policy](https://azureis.fun/posts/Automate-Azure-DR-with-Azure-Policy/)
 - [Services that are easy to optimize during Azure Migration](https://azureis.fun/posts/Services-that-are-easy-to-optimize-during-Azure-Migration/)
 - [Azure Policy ideas for Azure Governance](https://azureis.fun/posts/Azure-Policy-ideas-for-Azure-Governance/)
@@ -29,9 +32,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Rotate Azure VM Passwords with PowerShell and Key Vault](https://azureis.fun/posts/Rotate-Azure-VM-admin-password-with-PowerShell-and-KeyVault/)
 - [Update your Azure Automation Accounts to use Managed Identity instead of RunAs Account](https://azureis.fun/posts/Update-Azure-Automation-Account-To-Use-Managed-Identity/)
 - [Cleaning up Azure Resource Tags](https://azureis.fun/posts/Cleaning-Up-Azure-Resource-Tags/)
-- [Azure Naming Policy](https://azureis.fun/posts/Azure-Naming-Policy/)
-- [Registering Hyper-V Servers with a different Azure Migrate project](https://azureis.fun/posts/Registering-HyperV-Servers-With-A-Different-Azure-Migration-Project/)
-- [Simplify Your Resource Deployments With Azure Bicep](https://azureis.fun/posts/Simplify-Your-Resource-Deployments-With-Azure-Bicep/)
 <!-- AzureIs.Fun:END -->
 
 
