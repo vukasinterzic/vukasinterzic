@@ -40,11 +40,11 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     title Microsoft Certification Plan
     dateFormat  YYYY-MM-DD
     section Renewal
-    Microsoft Most Valuable Professional 2022-23    :done, 2021-03-31, 365d
+    Microsoft Most Valuable Professional 2022-23    :crit, done, 2021-03-31, 365d
     Microsoft Certified Trainer 2022-23             :done, 2021-04-07, 365d
     Azure Virtual Desktop Specialty                 :done, 2022-01-16, 180d
     Identity and Access Administrator Associate     :done, 2022-01-30, 180d
-    Azure Administrator Associate                   :crit, active, a2, 2022-02-28, 180d
+    Azure Administrator Associate                   :crit, done, a2, 2022-02-28, 180d
     Azure Security Engineer Associate               :active, 2022-03-30, 180d
     Azure Solutions Architect Expert                :crit, active, 2022-04-21, 180d
     Security Operations Analyst Associate           :active, 2022-04-29, 180d
