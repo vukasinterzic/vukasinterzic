@@ -45,9 +45,9 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     Azure Virtual Desktop Specialty                 :done, 2022-01-16, 180d
     Identity and Access Administrator Associate     :done, 2022-01-30, 180d
     Azure Administrator Associate                   :crit, active, a2, 2022-02-28, 180d
-    Azure Security Engineer Associate               :active, a3, 2022-03-30, 180d
-    Azure Solutions Architect Expert                :crit, active, a4, 2022-04-21, 180d
-    Security Operations Analyst Associate           :a5, active, 2022-04-29, 180d
+    Azure Security Engineer Associate               :active, 2022-03-30, 180d
+    Azure Solutions Architect Expert                :crit, active, 2022-04-21, 180d
+    Security Operations Analyst Associate           :active, 2022-04-29, 180d
     Information Protection Administrator Associate  :a6, 2022-05-13, 180d
     Security Administrator Associate                :a7, 2022-06-02, 180d
     Enterprise Administrator Expert                 :crit, a8, 2022-10-06, 180d
