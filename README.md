@@ -52,8 +52,8 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     Security Administrator Associate                :a7, 2022-06-02, 180d
     Enterprise Administrator Expert                 :crit, a8, 2022-10-06, 180d
     DevOps Engineer Expert                          :crit, a9, 2022-11-29, 180d
-    Microsoft Most Valuable Professional 2023-24    :a10, 2022-03-31, 365d
-    Microsoft Certified Trainer 2023-24             :a11, 2022-04-07, 365d
+    Microsoft Most Valuable Professional 2023-24    :active, 2022-03-31, 365d
+    Microsoft Certified Trainer 2023-24             :active, 2022-04-07, 365d
 
     section New Certifications
     AI-900 - Azure AI Fundamentals                                      :done, 2022-03-10, 30d
