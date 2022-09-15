@@ -45,9 +45,9 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     Azure Virtual Desktop Specialty                 :done, 2022-01-16, 180d
     Identity and Access Administrator Associate     :done, 2022-01-30, 180d
     Azure Administrator Associate                   :crit, done, a2, 2022-02-28, 180d
-    Azure Security Engineer Associate               :active, 2022-03-30, 180d
-    Azure Solutions Architect Expert                :crit, active, 2022-04-21, 180d
-    Security Operations Analyst Associate           :active, 2022-04-29, 180d
+    Azure Security Engineer Associate               :done, 2022-03-30, 180d
+    Azure Solutions Architect Expert                :crit, done, 2022-04-21, 180d
+    Security Operations Analyst Associate           :done, 2022-04-29, 180d
     Information Protection Administrator Associate  :active, 2022-05-13, 180d
     Security Administrator Associate                :a7, 2022-06-02, 180d
     Enterprise Administrator Expert                 :crit, a8, 2022-10-06, 180d
@@ -57,7 +57,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
     section New Certifications
     AI-900 - Azure AI Fundamentals                                      :done, 2022-03-10, 30d
-    AZ-700 - Azure Network Engineer Associate                           :a12, 2022-06-01, 30d
+    AZ-700 - Azure Network Engineer Associate                           :a12, 2022-10-10, 30d
     AZ-800 - Administering Windows Server Hybrid Core Infrastructure    :a13, after a12, 30d
     AZ-801 - Configuring Windows Server Hybrid Advanced Services        :a14, after a13, 30d
     DP-900 - Azure Data Fundamentals                                    :a15, after a14, 15d
