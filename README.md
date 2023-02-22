@@ -22,6 +22,8 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Deploying Azure Landing Zone with Azure Bicep](https://azureis.fun/posts/Deploy-Azure-Landing-Zone-with-Azure-Bicep/)
+- [5 Useful YAML pipeline template examples for Azure DevOps](https://azureis.fun/posts/5-useful-YAML-pipeline-template-examples-for-Azure-DevOps/)
 - [Adding a friendly name to existing Azure Resources](https://azureis.fun/posts/Adding-a-friendly-name-to-Azure-Resources/)
 - [Hidden Azure Tags](https://azureis.fun/posts/Hidden-Azure-Tags/)
 - [Windows Admin Center in Azure](https://azureis.fun/posts/Windows-Admin-Center-in-Azure/)
@@ -30,8 +32,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Azure Policy ideas for Azure Governance](https://azureis.fun/posts/Azure-Policy-ideas-for-Azure-Governance/)
 - [Azure CLI Tip Of The Day - January 2022](https://azureis.fun/posts/Azure-CLI-Tip-Of-The-Day-1-31/)
 - [Rotate Azure VM Passwords with PowerShell and Key Vault](https://azureis.fun/posts/Rotate-Azure-VM-admin-password-with-PowerShell-and-KeyVault/)
-- [Update your Azure Automation Accounts to use Managed Identity instead of RunAs Account](https://azureis.fun/posts/Update-Azure-Automation-Account-To-Use-Managed-Identity/)
-- [Cleaning up Azure Resource Tags](https://azureis.fun/posts/Cleaning-Up-Azure-Resource-Tags/)
 <!-- AzureIs.Fun:END -->
 
 
