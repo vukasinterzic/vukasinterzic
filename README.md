@@ -22,6 +22,9 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Using External Configuration File with Azure Bicep](https://azureis.fun/posts/Using-Configuration-File-With-Azure-Bicep/)
+- [Advanced Concepts in Azure Bicep Syntax](https://azureis.fun/posts/Advanced-Concepts-In-Azure-Bicep-Syntax/)
+- [Key Concepts in Azure Bicep Syntax](https://azureis.fun/posts/Key-Concepts-in-Azure-Bicep-Syntax/)
 - [Simplify Azure VM App deployment with WinGet](https://azureis.fun/posts/Simplify-Azure-VM-App-deployment-with-WinGet/)
 - [Deploying Azure Landing Zone with Azure Bicep](https://azureis.fun/posts/Deploy-Azure-Landing-Zone-with-Azure-Bicep/)
 - [5 Useful YAML pipeline template examples for Azure DevOps](https://azureis.fun/posts/5-useful-YAML-pipeline-template-examples-for-Azure-DevOps/)
@@ -29,9 +32,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Hidden Azure Tags](https://azureis.fun/posts/Hidden-Azure-Tags/)
 - [Windows Admin Center in Azure](https://azureis.fun/posts/Windows-Admin-Center-in-Azure/)
 - [Automate Azure DR with Azure Policy](https://azureis.fun/posts/Automate-Azure-DR-with-Azure-Policy/)
-- [Services that are easy to optimize during Azure Migration](https://azureis.fun/posts/Services-that-are-easy-to-optimize-during-Azure-Migration/)
-- [Azure Policy ideas for Azure Governance](https://azureis.fun/posts/Azure-Policy-ideas-for-Azure-Governance/)
-- [Azure CLI Tip Of The Day - January 2022](https://azureis.fun/posts/Azure-CLI-Tip-Of-The-Day-1-31/)
 <!-- AzureIs.Fun:END -->
 
 
