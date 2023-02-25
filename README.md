@@ -22,6 +22,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Accelerate Azure PowerShell with Kusto Query Language](https://azureis.fun/posts/Accelerate-Azure-PowerShell-with-Kusto-Query-Languge/)
 - [Using External Configuration File with Azure Bicep](https://azureis.fun/posts/Using-Configuration-File-With-Azure-Bicep/)
 - [Advanced Concepts in Azure Bicep Syntax](https://azureis.fun/posts/Advanced-Concepts-In-Azure-Bicep-Syntax/)
 - [Key Concepts in Azure Bicep Syntax](https://azureis.fun/posts/Key-Concepts-in-Azure-Bicep-Syntax/)
@@ -31,7 +32,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Adding a friendly name to existing Azure Resources](https://azureis.fun/posts/Adding-a-friendly-name-to-Azure-Resources/)
 - [Hidden Azure Tags](https://azureis.fun/posts/Hidden-Azure-Tags/)
 - [Windows Admin Center in Azure](https://azureis.fun/posts/Windows-Admin-Center-in-Azure/)
-- [Automate Azure DR with Azure Policy](https://azureis.fun/posts/Automate-Azure-DR-with-Azure-Policy/)
 <!-- AzureIs.Fun:END -->
 
 
