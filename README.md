@@ -22,6 +22,8 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Keeping Your Azure Environment Clean with Automation](https://azureis.fun/posts/Keeping-Your-Azure-Environment-Clean-with-Automation/)
+- [Azure Cost Optimization: 30 Ways to Save Money and Increase Efficiency](https://azureis.fun/posts/30-ways-to-save-money-with-Azure-Cost-Optimization/)
 - [Accelerate Azure PowerShell with Kusto Query Language](https://azureis.fun/posts/Accelerate-Azure-PowerShell-with-Kusto-Query-Languge/)
 - [Using External Configuration File with Azure Bicep](https://azureis.fun/posts/Using-Configuration-File-With-Azure-Bicep/)
 - [Advanced Concepts in Azure Bicep Syntax](https://azureis.fun/posts/Advanced-Concepts-In-Azure-Bicep-Syntax/)
@@ -30,8 +32,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Deploying Azure Landing Zone with Azure Bicep](https://azureis.fun/posts/Deploy-Azure-Landing-Zone-with-Azure-Bicep/)
 - [5 Useful YAML pipeline template examples for Azure DevOps](https://azureis.fun/posts/5-useful-YAML-pipeline-template-examples-for-Azure-DevOps/)
 - [Adding a friendly name to existing Azure Resources](https://azureis.fun/posts/Adding-a-friendly-name-to-Azure-Resources/)
-- [Hidden Azure Tags](https://azureis.fun/posts/Hidden-Azure-Tags/)
-- [Windows Admin Center in Azure](https://azureis.fun/posts/Windows-Admin-Center-in-Azure/)
 <!-- AzureIs.Fun:END -->
 
 
