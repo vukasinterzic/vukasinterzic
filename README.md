@@ -22,6 +22,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest from the blog:
 
 <!-- AzureIs.Fun:START -->
+- [Custom PowerShell API for Azure Naming Policy](https://azureis.fun/posts/Custom-PowerShell-API-for-Azure-Naming-Policy/)
 - [Edit Azure Policy Assignments with custom PowerShell API](https://azureis.fun/posts/Edit-Azure-Policy-Assignments-with-custom-PowerShell-API/)
 - [Create Your Own PowerShell APIs for Azure Governance with Azure Function App](https://azureis.fun/posts/Create-your-own-PowerShell-API-for-Azure-Governance-Tasks/)
 - [Keeping Your Azure Environment Clean with Automation](https://azureis.fun/posts/Keeping-Your-Azure-Environment-Clean-with-Automation/)
@@ -31,7 +32,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Advanced Concepts in Azure Bicep Syntax](https://azureis.fun/posts/Advanced-Concepts-In-Azure-Bicep-Syntax/)
 - [Key Concepts in Azure Bicep Syntax](https://azureis.fun/posts/Key-Concepts-in-Azure-Bicep-Syntax/)
 - [Simplify Azure VM App deployment with WinGet](https://azureis.fun/posts/Simplify-Azure-VM-App-deployment-with-WinGet/)
-- [Deploying Azure Landing Zone with Azure Bicep](https://azureis.fun/posts/Deploy-Azure-Landing-Zone-with-Azure-Bicep/)
 <!-- AzureIs.Fun:END -->
 
 
