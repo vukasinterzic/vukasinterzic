@@ -34,6 +34,9 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Advanced Concepts in Azure Bicep Syntax](https://azureis.fun/posts/Advanced-Concepts-In-Azure-Bicep-Syntax/)
 <!-- AzureIs.Fun:END -->
 
+![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
+
+<!--
 
 ```mermaid
     gantt
@@ -67,10 +70,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
     Optional DP-300 - Azure Database Administrator Associate            :a19, after a18, 30d
 ```
 
-![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
-
-
-<!--
 **vukasinterzic/vukasinterzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
