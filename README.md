@@ -35,27 +35,9 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 <!-- AzureIs.Fun:END -->
 
 
-### 🐥 Latest Tweets and Comments:
+### [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrTerzic) Latest Tweets and Comments:
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MrTerzic)](https://github.com/gazf/github-readme-twitter)
-
-
-|     📝 Latest articles from my blog:    |     🐥 Latest Tweets and Comments:     |
-|:--------------------------------------:|:------------------------------------:|
-|<!-- AzureIs.Fun:START -->
-- [The Future Of Azure Governance: Trends and Predictions](https://azureis.fun/posts/The-Future-Of-Azure-Governance/)
-- [Manage Azure Role Assignments Like a Pro with PowerShell](https://azureis.fun/posts/Manage-Azure-Roles-with-PowerShell/)
-- [Retrieve Azure Resource Group Cost with PowerShell API](https://azureis.fun/posts/Retrieve-Azure-Resource-Group-Cost-with-PowerShell-API/)
-- [Custom PowerShell API for Azure Naming Policy](https://azureis.fun/posts/Custom-PowerShell-API-for-Azure-Naming-Policy/)
-- [Edit Azure Policy Assignments with custom PowerShell API](https://azureis.fun/posts/Edit-Azure-Policy-Assignments-with-custom-PowerShell-API/)
-- [Create Your Own PowerShell APIs for Azure Governance with Azure Function App](https://azureis.fun/posts/Create-your-own-PowerShell-API-for-Azure-Governance-Tasks/)
-- [Keeping Your Azure Environment Clean with Automation](https://azureis.fun/posts/Keeping-Your-Azure-Environment-Clean-with-Automation/)
-- [Azure Cost Optimization: 30 Ways to Save Money and Increase Efficiency](https://azureis.fun/posts/30-ways-to-save-money-with-Azure-Cost-Optimization/)
-- [Accelerate Azure PowerShell with Kusto Query Language](https://azureis.fun/posts/Accelerate-Azure-PowerShell-with-Kusto-Query-Languge/)
-- [Using External Configuration File with Azure Bicep](https://azureis.fun/posts/Using-Configuration-File-With-Azure-Bicep/)
-<!-- AzureIs.Fun:END -->| [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MrTerzic)](https://github.com/gazf/github-readme-twitter)
-
-
 
 
 ![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
