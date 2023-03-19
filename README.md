@@ -42,8 +42,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 |     📝 Latest articles from my blog:    |     🐥 Latest Tweets and Comments:     |
 |:--------------------------------------:|:------------------------------------:|
-|
-<!-- AzureIs.Fun:START -->
+|<!-- AzureIs.Fun:START -->
 - [The Future Of Azure Governance: Trends and Predictions](https://azureis.fun/posts/The-Future-Of-Azure-Governance/)
 - [Manage Azure Role Assignments Like a Pro with PowerShell](https://azureis.fun/posts/Manage-Azure-Roles-with-PowerShell/)
 - [Retrieve Azure Resource Group Cost with PowerShell API](https://azureis.fun/posts/Retrieve-Azure-Resource-Group-Cost-with-PowerShell-API/)
@@ -54,8 +53,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Azure Cost Optimization: 30 Ways to Save Money and Increase Efficiency](https://azureis.fun/posts/30-ways-to-save-money-with-Azure-Cost-Optimization/)
 - [Accelerate Azure PowerShell with Kusto Query Language](https://azureis.fun/posts/Accelerate-Azure-PowerShell-with-Kusto-Query-Languge/)
 - [Using External Configuration File with Azure Bicep](https://azureis.fun/posts/Using-Configuration-File-With-Azure-Bicep/)
-<!-- AzureIs.Fun:END -->
-| [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MrTerzic)](https://github.com/gazf/github-readme-twitter)
+<!-- AzureIs.Fun:END -->| [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MrTerzic)](https://github.com/gazf/github-readme-twitter)
 
 
 
