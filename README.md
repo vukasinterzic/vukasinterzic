@@ -35,7 +35,7 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 <!-- AzureIs.Fun:END -->
 
 
-### [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrTerzic) Latest Tweets and Comments:
+### 🐥 Latest Tweets and Comments:
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MrTerzic)](https://github.com/gazf/github-readme-twitter)
 
