@@ -34,7 +34,14 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Using External Configuration File with Azure Bicep](https://azureis.fun/posts/Using-Configuration-File-With-Azure-Bicep/)
 <!-- AzureIs.Fun:END -->
 
+
+### 🐥 Latest Tweets:
+
+<a class="twitter-timeline" data-lang="en" data-height="580" data-dnt="true" data-theme="light" href="https://twitter.com/MrTerzic?ref_src=twsrc%5Etfw">Tweets by MrTerzic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
+
 
 <!--
 
