@@ -35,11 +35,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 <!-- AzureIs.Fun:END -->
 
 
-### 🐥 Latest Tweets and Comments:
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MrTerzic)](https://github.com/gazf/github-readme-twitter)
-
-
 ![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
 
 
