@@ -22,6 +22,8 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ### 📝 Latest articles from my blog:
 
 <!-- AzureIs.Fun:START -->
+- [Writing your first Azure Terraform Configuration](https://azureis.fun/posts/Writing-your-first-Azure-Terraform-Configuration-Template/)
+- [Terraform Configuration Essentials: File Types, State Management, and Provider Selection](https://azureis.fun/posts/Terraform-Configuration-Essentials/)
 - [Transition from ARM Templates to Terraform with AI](https://azureis.fun/posts/Transition-from-ARM-Templates-to-Terraform-with-AI/)
 - [Getting started with Terraform for Azure](https://azureis.fun/posts/Getting-started-with-Terraform-for-Azure/)
 - [Dynamically Managing Azure NSG Rules with PowerShell](https://azureis.fun/posts/Dynamically-Managing-Azure-NSG-Rules-with-PowerShell/)
@@ -30,8 +32,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 - [Manage Azure Role Assignments Like a Pro with PowerShell](https://azureis.fun/posts/Manage-Azure-Roles-with-PowerShell/)
 - [Retrieve Azure Resource Group Cost with PowerShell API](https://azureis.fun/posts/Retrieve-Azure-Resource-Group-Cost-with-PowerShell-API/)
 - [Custom PowerShell API for Azure Naming Policy](https://azureis.fun/posts/Custom-PowerShell-API-for-Azure-Naming-Policy/)
-- [Edit Azure Policy Assignments with custom PowerShell API](https://azureis.fun/posts/Edit-Azure-Policy-Assignments-with-custom-PowerShell-API/)
-- [Create Your Own PowerShell APIs for Azure Governance with Azure Function App](https://azureis.fun/posts/Create-your-own-PowerShell-API-for-Azure-Governance-Tasks/)
 <!-- AzureIs.Fun:END -->
 
 
