@@ -2,17 +2,16 @@
 
 ### Hi there 👋
 
-My name is Vukasin. I am a digital nomad traveling around the world, while working as a Cloud Solution Architect. I am not a developer, but I do like to write code and automate everything I can.
+My name is Vukasin. I am a digital nomad traveling around the world while working as a Cloud Solution Architect. I am not a developer, but I do like to write code and automate everything I can.
 
-I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz) and Microsoft Certified Trainer. I like creating Infrastructure as a Code, working with Windows server, hyperconverged infrastructures, and Azure ☁️
+I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz). I like creating Infrastructure as a Code, working with Windows Server, hyperconverged infrastructures, and Azure ☁️
 
-Away from keyboard, I enjoy activities like scuba diving and free diving, kite surfing and wind surfing, paddle boarding, beach cleaning, volunteering to help animals. I'm a father of a beautiful girl. I enjoy coffee ☕️ I love ocean and where ever I go I always come back to it.
+Away from the keyboard, I enjoy activities like scuba diving and free diving, kite surfing and windsurfing, paddle boarding, beach cleaning, and volunteering to help animals. I'm the father of a beautiful girl. I enjoy coffee ☕️ I love the ocean and wherever I go I always come back to it.
 
 ### 📫  Let's get in touch:
 
 [![terzic](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terzic/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrTerzic)
-[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/vukasin)
 [![AzureIs.Fun](https://img.shields.io/badge/blog-0078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azureis.fun)
 [![IE](https://img.shields.io/badge/website-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](http://vukasinterzic.com)
 [![Microsoft](https://img.shields.io/badge/MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5003864?fullName=Vukasin%20Terzic)
@@ -36,9 +35,6 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 
 
 ![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b51111ee-7740-4828-88e6-6b7993f0cd3b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!--
 
