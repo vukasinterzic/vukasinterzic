@@ -38,6 +38,8 @@ Away from keyboard, I enjoy activities like scuba diving and free diving, kite s
 ![Azure Is Fun](/assets/img/azure-is-fun-wordcloud-azure-hearth.png)
 
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b51111ee-7740-4828-88e6-6b7993f0cd3b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--
 
 ```mermaid
