@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Vukasin. I am a digital nomad traveling around the world while working as a Cloud Solution Architect. I am not a developer, but I do like to write code and automate everything I can.
+My name is Vukasin. I am a digital nomad traveling around the world while working as a Senior Cloud Architect. I am not a developer, but I do like to write code and automate everything I can.
 
 I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz). I like creating Infrastructure as a Code, working with Windows Server, hyperconverged infrastructures, and Azure ☁️
 
