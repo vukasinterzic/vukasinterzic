@@ -21,6 +21,7 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 ### 📝 Latest articles from my blog:
 
 <!-- AzureIs.Fun:START -->
+- [Diagram as Code with PowerShell](https://azureis.fun/posts/Diagram-as-Code-with-PowerShell/)
 - [Writing your first Azure Terraform Configuration](https://azureis.fun/posts/Writing-your-first-Azure-Terraform-Configuration-Template/)
 - [Terraform Configuration Essentials: File Types, State Management, and Provider Selection](https://azureis.fun/posts/Terraform-Configuration-Essentials/)
 - [Transition from ARM Templates to Terraform with AI](https://azureis.fun/posts/Transition-from-ARM-Templates-to-Terraform-with-AI/)
@@ -30,7 +31,6 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [The Future Of Azure Governance: Trends and Predictions](https://azureis.fun/posts/The-Future-Of-Azure-Governance/)
 - [Manage Azure Role Assignments Like a Pro with PowerShell](https://azureis.fun/posts/Manage-Azure-Roles-with-PowerShell/)
 - [Retrieve Azure Resource Group Cost with PowerShell API](https://azureis.fun/posts/Retrieve-Azure-Resource-Group-Cost-with-PowerShell-API/)
-- [Custom PowerShell API for Azure Naming Policy](https://azureis.fun/posts/Custom-PowerShell-API-for-Azure-Naming-Policy/)
 <!-- AzureIs.Fun:END -->
 
 
