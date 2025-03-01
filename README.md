@@ -23,6 +23,7 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 <!-- AzureIs.Fun:START -->
 - [Azure Network Peering diagram with PowerShell](https://azureis.fun/posts/Visualize-Azure-Network-Peering-With-PowerShell/)
 - [Diagram as Code with PowerShell](https://azureis.fun/posts/Diagram-as-Code-with-PowerShell/)
+- [When and How to Use Azure Resource Locks Without Causing Yourself Trouble](https://azureis.fun/posts/When-and-How-To-Use-Azure-Locks-Without-Trouble/)
 - [Writing your first Azure Terraform Configuration](https://azureis.fun/posts/Writing-your-first-Azure-Terraform-Configuration-Template/)
 - [Terraform Configuration Essentials: File Types, State Management, and Provider Selection](https://azureis.fun/posts/Terraform-Configuration-Essentials/)
 - [Transition from ARM Templates to Terraform with AI](https://azureis.fun/posts/Transition-from-ARM-Templates-to-Terraform-with-AI/)
@@ -30,7 +31,6 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [Dynamically Managing Azure NSG Rules with PowerShell](https://azureis.fun/posts/Dynamically-Managing-Azure-NSG-Rules-with-PowerShell/)
 - [Executing PowerShell Scripts Directly from GitHub Gists](https://azureis.fun/posts/Using-GitHub-Gists-and-running-PowerShell-from-GitHub-Gists/)
 - [The Future Of Azure Governance: Trends and Predictions](https://azureis.fun/posts/The-Future-Of-Azure-Governance/)
-- [Manage Azure Role Assignments Like a Pro with PowerShell](https://azureis.fun/posts/Manage-Azure-Roles-with-PowerShell/)
 <!-- AzureIs.Fun:END -->
 
 
