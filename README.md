@@ -4,7 +4,7 @@
 
 My name is Vukasin. I am a digital nomad traveling around the world while working as a Senior Cloud Architect. I am not a developer, but I do like to write code and automate everything I can.
 
-I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz). I like creating Infrastructure as a Code, working with Windows Server, hyperconverged infrastructures, and Azure ☁️
+I am also a Microsoft Azure Most Valuable Professional (#MVPBuzz). I like creating Infrastructure as a Code, working with Windows Server, hyperconverged infrastructures, and Azure ☁️ I also like to make various 3D printing and Electronics projects.
 
 Away from the keyboard, I enjoy activities like scuba diving and free diving, kite surfing and windsurfing, paddle boarding, beach cleaning, and volunteering to help animals. I'm the father of a beautiful girl. I enjoy coffee ☕️ I love the ocean and wherever I go I always come back to it.
 
