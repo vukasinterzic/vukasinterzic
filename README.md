@@ -25,7 +25,7 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [Understanding And Overcoming Azure VM SKU Capacity Limitations](https://azureis.fun/posts/Undrstanding-And-Overcoming-Azure-VM-SKU-Capacity-Limitations/)
 - [Azure Network Peering diagram with PowerShell](https://azureis.fun/posts/Visualize-Azure-Network-Peering-With-PowerShell/)
 - [Diagram as Code with PowerShell](https://azureis.fun/posts/Diagram-as-Code-with-PowerShell/)
-- [A Deep Dive In Azure VM Snapshots](https://azureis.fun/posts/A-Deep-Dive-In-Azure-VM-Snapshots/)
+- [Automating Azure VM Snapshots](https://azureis.fun/posts/Automating-Azure-VM-Snapshots/)
 - [Understanding Physical and Logical Azure Availability Zones](https://azureis.fun/posts/Understanding-Physical-and-Logical-Azure-Availability-Zones/)
 - [When and How to Use Azure Resource Locks Without Causing Yourself Trouble](https://azureis.fun/posts/When-and-How-To-Use-Azure-Locks-Without-Trouble/)
 - [How To Create And Use Terraform Modules](https://azureis.fun/posts/How-To-Create-And-Use-Terraform-Modules/)
