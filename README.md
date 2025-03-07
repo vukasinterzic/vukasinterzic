@@ -21,6 +21,8 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 ### 📝 Latest articles from my blog:
 
 <!-- AzureIs.Fun:START -->
+- [Deploy Azure Monitor With Terraform](https://azureis.fun/posts/Deploy-Azure-Monitor-With-Terraform/)
+- [Understanding And Overcoming Azure VM SKU Capacity Limitations](https://azureis.fun/posts/Undrstanding-And-Overcoming-Azure-VM-SKU-Capacity-Limitations/)
 - [Azure Network Peering diagram with PowerShell](https://azureis.fun/posts/Visualize-Azure-Network-Peering-With-PowerShell/)
 - [Diagram as Code with PowerShell](https://azureis.fun/posts/Diagram-as-Code-with-PowerShell/)
 - [A Deep Dive In Azure VM Snapshots](https://azureis.fun/posts/A-Deep-Dive-In-Azure-VM-Snapshots/)
@@ -29,8 +31,6 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [How To Create And Use Terraform Modules](https://azureis.fun/posts/How-To-Create-And-Use-Terraform-Modules/)
 - [Writing your first Azure Terraform Configuration](https://azureis.fun/posts/Writing-your-first-Azure-Terraform-Configuration-Template/)
 - [Terraform Configuration Essentials: File Types, State Management, and Provider Selection](https://azureis.fun/posts/Terraform-Configuration-Essentials/)
-- [Transition from ARM Templates to Terraform with AI](https://azureis.fun/posts/Transition-from-ARM-Templates-to-Terraform-with-AI/)
-- [Getting started with Terraform for Azure](https://azureis.fun/posts/Getting-started-with-Terraform-for-Azure/)
 <!-- AzureIs.Fun:END -->
 
 
