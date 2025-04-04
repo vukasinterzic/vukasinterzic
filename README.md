@@ -22,6 +22,7 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 
 <!-- AzureIs.Fun:START -->
 - [Deploy Azure Monitor With Terraform](https://azureis.fun/posts/Deploy-Azure-Monitor-With-Terraform/)
+- [Get VM SKU Availability in Azure Availability Zones](https://azureis.fun/posts/Get-VM-SKU-Availability-in-Azure-Zones/)
 - [Understanding And Overcoming Azure VM SKU Capacity Limitations](https://azureis.fun/posts/Undrstanding-And-Overcoming-Azure-VM-SKU-Capacity-Limitations/)
 - [Azure Network Peering diagram with PowerShell](https://azureis.fun/posts/Visualize-Azure-Network-Peering-With-PowerShell/)
 - [Diagram as Code with PowerShell](https://azureis.fun/posts/Diagram-as-Code-with-PowerShell/)
@@ -30,7 +31,6 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [When and How to Use Azure Resource Locks Without Causing Yourself Trouble](https://azureis.fun/posts/When-and-How-To-Use-Azure-Locks-Without-Trouble/)
 - [How To Create And Use Terraform Modules](https://azureis.fun/posts/How-To-Create-And-Use-Terraform-Modules/)
 - [Writing your first Azure Terraform Configuration](https://azureis.fun/posts/Writing-your-first-Azure-Terraform-Configuration-Template/)
-- [Terraform Configuration Essentials: File Types, State Management, and Provider Selection](https://azureis.fun/posts/Terraform-Configuration-Essentials/)
 <!-- AzureIs.Fun:END -->
 
 
