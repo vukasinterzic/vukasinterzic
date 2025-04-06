@@ -26,11 +26,11 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [Understanding And Overcoming Azure VM SKU Capacity Limitations](https://azureis.fun/posts/Undrstanding-And-Overcoming-Azure-VM-SKU-Capacity-Limitations/)
 - [Azure Network Peering diagram with PowerShell](https://azureis.fun/posts/Visualize-Azure-Network-Peering-With-PowerShell/)
 - [Diagram as Code with PowerShell](https://azureis.fun/posts/Diagram-as-Code-with-PowerShell/)
+- [How to setup and use Azure Quick Review &lpar;AZQR&rpar;](https://azureis.fun/posts/How-to-setup-and-use-Azure-Quick-Review-AZQR/)
+- [Azure VM Remote Script Execution Tools Compared](https://azureis.fun/posts/Azure-VM-Remote-Script-Execution-Tools-Compared/)
 - [Automating Azure VM Snapshots](https://azureis.fun/posts/Automating-Azure-VM-Snapshots/)
 - [Understanding Physical and Logical Azure Availability Zones](https://azureis.fun/posts/Understanding-Physical-and-Logical-Azure-Availability-Zones/)
 - [When and How to Use Azure Resource Locks Without Causing Yourself Trouble](https://azureis.fun/posts/When-and-How-To-Use-Azure-Locks-Without-Trouble/)
-- [How To Create And Use Terraform Modules](https://azureis.fun/posts/How-To-Create-And-Use-Terraform-Modules/)
-- [Writing your first Azure Terraform Configuration](https://azureis.fun/posts/Writing-your-first-Azure-Terraform-Configuration-Template/)
 <!-- AzureIs.Fun:END -->
 
 
