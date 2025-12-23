@@ -22,6 +22,7 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 
 <!-- AzureIs.Fun:START -->
 - [Essential KQL Queries for Azure with and without Log Analytics](https://azureis.fun/posts/Essential-KQL-Queries-for-Azure-with-and-without-Log-Analytics/)
+- [Ingesting Custom Data to Azure Log Analytics like a Pro](https://azureis.fun/posts/Ingesting-Custom-Data-To-Azure-Log-Analytics/)
 - [Deploy Azure Monitor With Terraform](https://azureis.fun/posts/Deploy-Azure-Monitor-With-Terraform/)
 - [Get VM SKU Availability in Azure Availability Zones](https://azureis.fun/posts/Get-VM-SKU-Availability-in-Azure-Zones/)
 - [Understanding And Overcoming Azure VM SKU Capacity Limitations](https://azureis.fun/posts/Undrstanding-And-Overcoming-Azure-VM-SKU-Capacity-Limitations/)
@@ -30,7 +31,6 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [How to setup and use Azure Quick Review &lpar;AZQR&rpar;](https://azureis.fun/posts/How-to-setup-and-use-Azure-Quick-Review-AZQR/)
 - [Azure VM Remote Script Execution Tools Compared](https://azureis.fun/posts/Azure-VM-Remote-Script-Execution-Tools-Compared/)
 - [Automating Azure VM Snapshots](https://azureis.fun/posts/Automating-Azure-VM-Snapshots/)
-- [Understanding Physical and Logical Azure Availability Zones](https://azureis.fun/posts/Understanding-Physical-and-Logical-Azure-Availability-Zones/)
 <!-- AzureIs.Fun:END -->
 
 
