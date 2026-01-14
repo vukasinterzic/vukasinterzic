@@ -22,6 +22,7 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 
 <!-- AzureIs.Fun:START -->
 - [Essential KQL Queries for Azure with and without Log Analytics](https://azureis.fun/posts/Essential-KQL-Queries-for-Azure-with-and-without-Log-Analytics/)
+- [Enforcing Azure Lighthouse at Management Group Level](https://azureis.fun/posts/Enforcing-Azure-Lighthouse-at-Management-Group-Level/)
 - [Azure Policy management with PowerShell](https://azureis.fun/posts/Deploy-Azure-Policy-with-PowerShell/)
 - [Orchestrating ARM, Bicep, and Terraform with PowerShell](https://azureis.fun/posts/Orchestrating-ARM-Bicep-Terraform-with-PowerShell/)
 - [Monitoring Azure Subnet IP Availability](https://azureis.fun/posts/Azure-Subnet-IP-Availability-Monitoring/)
@@ -30,7 +31,6 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [Get VM SKU Availability in Azure Availability Zones](https://azureis.fun/posts/Get-VM-SKU-Availability-in-Azure-Zones/)
 - [Understanding And Overcoming Azure VM SKU Capacity Limitations](https://azureis.fun/posts/Undrstanding-And-Overcoming-Azure-VM-SKU-Capacity-Limitations/)
 - [Azure Network Peering diagram with PowerShell](https://azureis.fun/posts/Visualize-Azure-Network-Peering-With-PowerShell/)
-- [Diagram as Code with PowerShell](https://azureis.fun/posts/Diagram-as-Code-with-PowerShell/)
 <!-- AzureIs.Fun:END -->
 
 
