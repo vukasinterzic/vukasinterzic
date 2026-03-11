@@ -22,6 +22,7 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 
 <!-- AzureIs.Fun:START -->
 - [How to Clean Up and Reset Your Azure Environment in 30 Days](https://azureis.fun/posts/How-to-Clean-Up-and-Reset-Your-Azure-Environment-in-30-Days/)
+- [24 Advanced but Useful Azure PowerShell One-Liners for Administrators](https://azureis.fun/posts/24-Useful-PowerShell-OneLiners-For-Azure-Admins/)
 - [Essential KQL Queries for Azure with and without Log Analytics](https://azureis.fun/posts/Essential-KQL-Queries-for-Azure-with-and-without-Log-Analytics/)
 - [Enforcing Azure Lighthouse at Management Group Level](https://azureis.fun/posts/Enforcing-Azure-Lighthouse-at-Management-Group-Level/)
 - [How to Trigger Azure Automation from Azure Policy Compliance](https://azureis.fun/posts/How-to-Trigger-Azure-Automation-from-Azure-Policy-Compliance/)
@@ -30,7 +31,6 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [Orchestrating ARM, Bicep, and Terraform with PowerShell](https://azureis.fun/posts/Orchestrating-ARM-Bicep-Terraform-with-PowerShell/)
 - [Monitoring Azure Subnet IP Availability](https://azureis.fun/posts/Azure-Subnet-IP-Availability-Monitoring/)
 - [Ingesting Custom Data to Azure Log Analytics like a Pro](https://azureis.fun/posts/Ingesting-Custom-Data-To-Azure-Log-Analytics-copy/)
-- [Deploy Azure Monitor With Terraform](https://azureis.fun/posts/Deploy-Azure-Monitor-With-Terraform/)
 <!-- AzureIs.Fun:END -->
 
 
