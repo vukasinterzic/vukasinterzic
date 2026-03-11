@@ -21,6 +21,7 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 ### 📝 Latest articles from my blog:
 
 <!-- AzureIs.Fun:START -->
+- [How to Clean Up and Reset Your Azure Environment in 30 Days](https://azureis.fun/posts/How-to-Clean-Up-and-Reset-Your-Azure-Environment-in-30-Days/)
 - [Essential KQL Queries for Azure with and without Log Analytics](https://azureis.fun/posts/Essential-KQL-Queries-for-Azure-with-and-without-Log-Analytics/)
 - [Enforcing Azure Lighthouse at Management Group Level](https://azureis.fun/posts/Enforcing-Azure-Lighthouse-at-Management-Group-Level/)
 - [How to Trigger Azure Automation from Azure Policy Compliance](https://azureis.fun/posts/How-to-Trigger-Azure-Automation-from-Azure-Policy-Compliance/)
@@ -30,7 +31,6 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 - [Monitoring Azure Subnet IP Availability](https://azureis.fun/posts/Azure-Subnet-IP-Availability-Monitoring/)
 - [Ingesting Custom Data to Azure Log Analytics like a Pro](https://azureis.fun/posts/Ingesting-Custom-Data-To-Azure-Log-Analytics-copy/)
 - [Deploy Azure Monitor With Terraform](https://azureis.fun/posts/Deploy-Azure-Monitor-With-Terraform/)
-- [Get VM SKU Availability in Azure Availability Zones](https://azureis.fun/posts/Get-VM-SKU-Availability-in-Azure-Zones/)
 <!-- AzureIs.Fun:END -->
 
 
