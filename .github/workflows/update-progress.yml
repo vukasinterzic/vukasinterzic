@@ -43,20 +43,16 @@ jobs:
           with open('README.md', 'r') as f:
               content = f.read()
           
-          new_section = f"""<!-- PROGRESS:START -->
-### 🌲 2026 Writing Progress: A Growing Forest
-
-*Every article I write helps grow a digital forest. Watch it flourish as I document my journey with Azure and cloud technologies throughout 2026.*
-
-<p align="center">
-  <img src="/assets/img/progress-forrest/{image}" alt="Forest Growing with Articles">
-</p>
-
-<p align="center">
-  <strong>{count} articles written in 2026 so far</strong>
-</p>
-
-<!-- PROGRESS:END -->"""
+          new_section = '<!-- PROGRESS:START -->\n'
+          new_section += '### 🌲 2026 Writing Progress: A Growing Forest\n\n'
+          new_section += '*Every article I write helps grow a digital forest. Watch it flourish as I document my journey with Azure and cloud technologies throughout 2026.*\n\n'
+          new_section += '<p align="center">\n'
+          new_section += f'  <img src="/assets/img/progress-forrest/{image}" alt="Forest Growing with Articles">\n'
+          new_section += '</p>\n\n'
+          new_section += '<p align="center">\n'
+          new_section += f'  <strong>{count} articles written in 2026 so far</strong>\n'
+          new_section += '</p>\n\n'
+          new_section += '<!-- PROGRESS:END -->'
           
           if '<!-- PROGRESS:START -->' in content:
               content = re.sub(
