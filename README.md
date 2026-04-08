@@ -83,3 +83,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- PROGRESS:START -->
+### 📊 2026 Writing Progress
+
+![Progress](/assets/img/progress-forrest/forrest-03.png)
+
+3 articles written in 2026
+
+<!-- PROGRESS:END -->
