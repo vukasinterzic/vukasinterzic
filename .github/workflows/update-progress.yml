@@ -41,11 +41,11 @@ jobs:
           *Every article I write helps grow a digital forest. Watch it flourish as I document my journey with Azure and cloud technologies throughout 2026.*
           
           <p align="center">
-            <img src="/assets/img/progress-forrest/$IMAGE" alt="Forest Growing with Articles" width="300">
+            <img src="/assets/img/progress-forrest/$IMAGE" alt="Forest Growing with Articles">
           </p>
           
           <p align="center">
-            <strong>$COUNT articles written in 2026</strong>
+            <strong>$COUNT articles written in 2026 so far</strong>
           </p>
           
           <!-- PROGRESS:END -->
