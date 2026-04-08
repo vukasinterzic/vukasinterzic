@@ -1,0 +1,66 @@
+name: Update Progress Forrest
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Count 2026 blog posts
+        id: count-posts
+        run: |
+          COUNT=$(curl -s https://azureis.fun/feed.xml | grep -o '<published>2026-[^<]*</published>' | wc -l)
+          echo "post_count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Found $COUNT posts in 2026"
+      
+      - name: Determine image
+        id: image
+        run: |
+          COUNT=${{ steps.count-posts.outputs.post_count }}
+          # Clamp to max 12 (we have forrest-01 through forrest-12)
+          if [ $COUNT -gt 12 ]; then COUNT=12; fi
+          IMAGE="forrest-$(printf "%02d" $COUNT).png"
+          echo "image=$IMAGE" >> $GITHUB_OUTPUT
+          echo "Selected image: $IMAGE"
+      
+      - name: Update README
+        run: |
+          COUNT=${{ steps.count-posts.outputs.post_count }}
+          IMAGE=${{ steps.image.outputs.image }}
+          
+          # Check if progress section exists, if not add it
+          if ! grep -q "<!-- PROGRESS:START -->" README.md; then
+            echo "" >> README.md
+            echo "<!-- PROGRESS:START -->" >> README.md
+            echo "### 📊 2026 Writing Progress" >> README.md
+            echo "" >> README.md
+            echo "![Progress](/assets/img/progress-forrest/$IMAGE)" >> README.md
+            echo "" >> README.md
+            echo "$COUNT articles written in 2026" >> README.md
+            echo "" >> README.md
+            echo "<!-- PROGRESS:END -->" >> README.md
+          else
+            # Update existing progress section
+            sed -i.bak "s|!\[Progress\](.*)|![Progress](/assets/img/progress-forrest/$IMAGE)|" README.md
+            sed -i.bak "s|^[0-9]* articles written in 2026|$COUNT articles written in 2026|" README.md
+            rm -f README.md.bak
+          fi
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          
+          # Only commit if there are changes
+          if ! git diff --quiet --cached; then
+            git commit -m "📊 Update progress: ${{ steps.count-posts.outputs.post_count }} articles in 2026"
+            git push
+          else
+            echo "No changes to commit"
+          fi
