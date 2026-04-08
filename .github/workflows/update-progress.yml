@@ -29,38 +29,48 @@ jobs:
           echo "Selected image: $IMAGE"
       
       - name: Update README
+        env:
+          COUNT: ${{ steps.count-posts.outputs.post_count }}
+          IMAGE: ${{ steps.image.outputs.image }}
         run: |
-          COUNT=${{ steps.count-posts.outputs.post_count }}
-          IMAGE=${{ steps.image.outputs.image }}
+          python3 << 'PYTHON_EOF'
+          import re
+          import os
           
-          # Build the new progress section
-          read -r -d '' NEW_SECTION << 'EOF' || true
-          <!-- PROGRESS:START -->
-          ### 🌲 2026 Writing Progress: A Growing Forest
+          count = os.environ.get('COUNT', '0')
+          image = os.environ.get('IMAGE', 'forrest-01.png')
           
-          *Every article I write helps grow a digital forest. Watch it flourish as I document my journey with Azure and cloud technologies throughout 2026.*
+          with open('README.md', 'r') as f:
+              content = f.read()
           
-          <p align="center">
-            <img src="/assets/img/progress-forrest/$IMAGE" alt="Forest Growing with Articles">
-          </p>
+          new_section = f"""<!-- PROGRESS:START -->
+### 🌲 2026 Writing Progress: A Growing Forest
+
+*Every article I write helps grow a digital forest. Watch it flourish as I document my journey with Azure and cloud technologies throughout 2026.*
+
+<p align="center">
+  <img src="/assets/img/progress-forrest/{image}" alt="Forest Growing with Articles">
+</p>
+
+<p align="center">
+  <strong>{count} articles written in 2026 so far</strong>
+</p>
+
+<!-- PROGRESS:END -->"""
           
-          <p align="center">
-            <strong>$COUNT articles written in 2026 so far</strong>
-          </p>
+          if '<!-- PROGRESS:START -->' in content:
+              content = re.sub(
+                  r'<!-- PROGRESS:START -->.*?<!-- PROGRESS:END -->',
+                  new_section,
+                  content,
+                  flags=re.DOTALL
+              )
+          else:
+              content += '\n\n' + new_section
           
-          <!-- PROGRESS:END -->
-          EOF
-          
-          # Replace the progress section or add it if it doesn't exist
-          if grep -q "<!-- PROGRESS:START -->" README.md; then
-            # Remove old section and add new one
-            sed -i.bak '/<!-- PROGRESS:START -->/,/<!-- PROGRESS:END -->/c\'"$NEW_SECTION" README.md
-            rm -f README.md.bak
-          else
-            # Add section at end of file
-            echo "" >> README.md
-            echo "$NEW_SECTION" >> README.md
-          fi
+          with open('README.md', 'w') as f:
+              f.write(content)
+          PYTHON_EOF
       
       - name: Commit and push changes
         run: |
