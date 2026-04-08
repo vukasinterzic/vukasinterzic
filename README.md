@@ -85,10 +85,16 @@ Here are some ideas to get you started:
 -->
 
 <!-- PROGRESS:START -->
-### 📊 2026 Writing Progress
+### 🌲 2026 Writing Progress: A Growing Forest
 
-![Progress](/assets/img/progress-forrest/forrest-03.png)
+*Every article I write helps grow a digital forest. Watch it flourish as I document my journey with Azure and cloud technologies throughout 2026.*
 
-3 articles written in 2026
+<p align="center">
+  <img src="/assets/img/progress-forrest/forrest-03.png" alt="Forest Growing with Articles" width="300">
+</p>
+
+<p align="center">
+  <strong>3 articles written in 2026</strong>
+</p>
 
 <!-- PROGRESS:END -->
