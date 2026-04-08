@@ -18,6 +18,21 @@ Away from the keyboard, I enjoy activities like scuba diving and free diving, ki
 
 ### 🤙 You can also [schedule 1:1 meeting with me](http://calendly.com/vukasin-terzic) to discuss Azure (free 30min consultation)
 
+<!-- PROGRESS:START -->
+### 🌲 2026 Writing Progress: A Growing Forest
+
+*Every article I write helps grow a digital forest. Watch it flourish as I document my journey with Azure and cloud technologies throughout 2026.*
+
+<p align="center">
+  <img src="/assets/img/progress-forrest/forrest-03.png" alt="Forest Growing with Articles">
+</p>
+
+<p align="center">
+  <strong>3 articles written in 2026 so far</strong>
+</p>
+
+<!-- PROGRESS:END -->
+
 ### 📝 Latest articles from my blog:
 
 <!-- AzureIs.Fun:START -->
@@ -83,18 +98,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- PROGRESS:START -->
-### 🌲 2026 Writing Progress: A Growing Forest
-
-*Every article I write helps grow a digital forest. Watch it flourish as I document my journey with Azure and cloud technologies throughout 2026.*
-
-<p align="center">
-  <img src="/assets/img/progress-forrest/forrest-03.png" alt="Forest Growing with Articles" width="300">
-</p>
-
-<p align="center">
-  <strong>3 articles written in 2026</strong>
-</p>
-
-<!-- PROGRESS:END -->
